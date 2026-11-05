@@ -1,0 +1,22 @@
+#body,html {
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    background-color: lightskyblue;
+    font-size: 100px;
+}
+
+pre{
+    font-size: 30px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+#nothing{
+     text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+}

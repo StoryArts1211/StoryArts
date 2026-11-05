@@ -1,0 +1,40 @@
+#heading{
+    text-align: center;
+    width: 2133px;
+    height: 150px;
+    font-size: 100px;
+    color: white;
+    background-color:lightskyblue ;
+}
+
+#body,html{
+    background-color: antiquewhite;
+}
+
+#pre{
+    text-align: center;
+    font-size: 25px;
+}
+
+#heading2{
+    color: black;
+    height: 100px;
+    width: 2100px;
+    text-align: center;
+    font-size: 60px;
+}
+
+#heading3{
+    font-size: 30px;
+    color: green;
+}
+
+#thanks{
+    font-weight: 900;
+    font-size: 25px;
+}
+#nothing{
+     text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+}
