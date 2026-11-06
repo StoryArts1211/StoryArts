@@ -1,0 +1,21 @@
+#body,html{
+    background-color: antiquewhite;
+}
+
+#pre{
+    font-size: 25px;
+    text-align: center;
+}
+
+b{
+    text-align: center;
+}
+
+#h1{
+    text-align: center;
+    width: 2133px;
+    height: 150px;
+    font-size: 100px;
+    color: white;
+    background-color:lightskyblue ;
+}
