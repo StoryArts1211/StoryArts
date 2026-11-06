@@ -1,2 +1,0 @@
-# StoryArts
-I build Stories
